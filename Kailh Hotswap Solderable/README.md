@@ -1,8 +1,8 @@
 # Kailh hotswap solderable
 
-![item picture](/Kailh_Hotswap_Solderable/images/item.png)
-![schematic](/Kailh_Hotswap_Solderable/images/schematic.jpg)
-![bulk](/Kailh_Hotswap_Solderable/images/bulk.png)
+![item picture](/Kailh Hotswap Solderable/images/item.png)
+![schematic](/Kailh Hotswap Solderable/images/schematic.jpg)
+![bulk](/Kailh Hotswap Solderable/images/bulk.png)
 
 For mechanical key switches
 
