@@ -23,7 +23,7 @@ Also note that these encoders have detents so I had to perform "surgery".
 
 ![picture](</EC-16 Encoders/images/no-brand-ec16-15mm.png>)
 
-![schematic](</EC-16 Encoders/images/no-brand-ec16-15mm-schematic.png>)
+![schematic](</EC-16 Encoders/images/no-brand-ec16-15mm-schematic.jpg>)
 
 Theres more schematics but too many images to put here.
 
